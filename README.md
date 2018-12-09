@@ -8,7 +8,7 @@
 Sobre el Curso
 =================
 * Horario: De Lunes a Viernes de 09:00h a 14:00h
-* Fechas: 15/11/2018 - 23/11/2018
+* Fechas: 10/12/18 - 18/12/18
 
 Teoría y Recursos
 =================
