@@ -58,3 +58,12 @@
 - https://i.imgur.com/8yKeaLf.jpg 
 - https://static.charlieharvey.org.uk/graphics/js-weird-parts.png 
 
+
+
+### clase3
+
+- http://4.bp.blogspot.com/-YUyWf1Ey2nQ/VcUCyFjtPXI/AAAAAAAAACU/Hk9ylpwa-3g/s1600/1.jpg 
+- https://cdn-images-1.medium.com/max/1000/1*vYtDyAbOMTJnArJvXix5wg.jpeg 
+- http://nmp90.com/wp-content/uploads/2017/12/object-oriented-programming.jpg 
+- https://cdn-images-1.medium.com/max/800/1*cBFSQ9Ytv_D0jwGtpuL5WA.png 
+
