@@ -15,6 +15,7 @@ Teoría y Recursos
 Fecha | Teoría | Recursos | Descripción
 ------------ | ------------ | ------------- |  ------------- 
 10/12/18 | [Clase 1](teoria/clase1.md) | [Clase 1](recursos/clase1.md) | Intro + Chrome DevTools + Reintro a Javascript I
+11/12/18 | [Clase 2](teoria/clase2.md) | [Clase 2](recursos/clase2.md) | Reintro a Javascript II + Funciones y conceptos avanzados de JavaScript
 
 Temario
 =================
