@@ -1,4 +1,4 @@
-function listarReservas(lista, elem){
+function listarReservas(lista){
     lista.forEach(function(elemento, indice){
         console.log('el pasajero %s tiene reservado el asiento %d', elemento, indice+1);
     });
