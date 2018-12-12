@@ -569,12 +569,11 @@ do {
 - Manejando datos independientes con una estructura clave/valor
 ```javascript
 	let miMap = new Map();
-	let miArray = [];
 
 	miMap.set('cadena', 'Hola!');
-	miMap.set(miArray, [500, "hola", true, false]);
+	miMap.set('miArray', [500, "hola", true, false]);
 
-	console.log(miMap.get(miArray)); // [500, "hola", true, false]
+	console.log(miMap.get('miArray')); // [500, "hola", true, false]
 	console.log(miMap.get('cadena')); // Hola!
 
 	console.log(miMap.size); // 2
