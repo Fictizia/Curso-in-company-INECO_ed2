@@ -67,3 +67,34 @@
 - http://nmp90.com/wp-content/uploads/2017/12/object-oriented-programming.jpg 
 - https://cdn-images-1.medium.com/max/800/1*cBFSQ9Ytv_D0jwGtpuL5WA.png 
 
+
+### clase4
+
+- https://s3-us-west-2.amazonaws.com/devcodepro/media/tutorials/novedades-ecmascript6-t1.gif 
+- https://assets.contents.io/asset_Y9hpxcgL.png 
+- https://raw.githubusercontent.com/getify/You-Dont-Know-JS/master/es6%20%26%20beyond/fig1.png 
+- https://mdn.mozillademos.org/files/8629/typed_arrays.png 
+- https://cdn-images-1.medium.com/max/1600/1*4KPIzPcEPAI0um7OQ-ibYw.jpeg 
+- https://mdn.mozillademos.org/files/8633/promises.png 
+- https://cdn-images-1.medium.com/max/1446/1*JhDw7yiwv5YOJIncUhCXQg.png 
+- https://i.ytimg.com/vi/LsynbD9gwqg/maxresdefault.jpg 
+- https://cdn-images-1.medium.com/max/1000/1*ReeHV0eEsfmMskVUk1vVog.png 
+- https://marsblogger.files.wordpress.com/2015/04/giga.png 
+- https://cdn-images-1.medium.com/max/1600/1*GDGCFOr1d65UKnIo8IjArQ.png 
+- https://s3.amazonaws.com/media-p.slid.es/uploads/479298/images/4641757/browser-diagram-full-2.png 
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DOM-model.svg/1200px-DOM-model.svg.png 
+- http://xitrus.es/blog/imgs/nojquery.png 
+- https://cdn.worldvectorlogo.com/logos/bootstrap-5.svg 
+- http://i.stack.imgur.com/liJ5u.png 
+- http://www.programmings4beginners.com/wp-content/uploads/2017/06/Screenshot-939.png 
+- http://blog.catchpoint.com/wp-content/uploads/2010/09/simplehttp1.png 
+- http://www.tcpipguide.com/free/diagrams/httprequest.png 
+- http://www.tcpipguide.com/free/diagrams/httpresponse.png 
+- https://cebuwebmaker.com/wp-content/uploads/2017/11/Difference-Between-HTTP-and-HTTPS-e1511321523338.png 
+- http://gemsres.com/story/feb07/338111/fig1.jpg 
+- https://jmunoadotnet.files.wordpress.com/2017/09/crud.png?w=810 
+- https://cdn-images-1.medium.com/max/1600/0*HU6ti25J9Y_hJQjl. 
+- https://brianflove.com/images/posts/2017/cors-in-express-using-typescript-headers.png 
+- https://www.htmlgoodies.com/imagesvr_ce/8497/proxy_server.jpg 
+- http://jsonpwrapper.com/intro.png 
+- https://qph.ec.quoracdn.net/main-qimg-4d442c9be049f302435ccecd9f2cd756.webp
