@@ -550,6 +550,21 @@ h({ name: "bar", val: 42 });
 	console.log(generatorInstance.next().value); // undefined
 ```
 
+```javascript
+//@see: http://miguelsr.js.org/2015/06/08/es6-generators.html
+function* getArrayByChunks(hugeArray, chunkSize) {
+    for (var i = 0; i < hugeArray.length; i = i + chunkSize) {
+        yield hugeArray.slice(i, chunkSize + i); 
+    }
+}
+
+var myIterator = getArrayByChunks([1,2,3,4,5,6,7,8,9,10], 3);
+do {
+    var result = myIterator.next();
+    console.log(result.value);
+} while (!result.done);
+```
+
 ### ECMA6: Map
 - Manejando datos independientes con una estructura clave/valor
 ```javascript
