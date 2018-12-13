@@ -6,3 +6,5 @@ Ej.3 Gatos
 var array = [].slice.call(document.getElementsByTagName('img'));
 array.forEach(function(elemento){elemento.src='http://placekitten.com/200/140'});
 
+Ej.4 Profes
+var array = [].slice.call(document.body.querySelectorAll('article.microCard div > img'));
