@@ -1,0 +1,8 @@
+Ej.2 Metro
+var array = [].slice.call(document.querySelectorAll('li.list__lineas__element'));
+array.forEach(function(elemento) {console.log(elemento.querySelector('img').className);elemento.querySelector('span.state--alert')?console.log(document.getElementById(elemento.querySelector('span.top').dataset.yetiBox).textContent):console.log('Circulación normal');})
+
+Ej.3 Gatos
+var array = [].slice.call(document.getElementsByTagName('img'));
+array.forEach(function(elemento){elemento.src='http://placekitten.com/200/140'});
+
