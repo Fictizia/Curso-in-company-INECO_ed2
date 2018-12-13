@@ -7,7 +7,9 @@ for(let i=0;i<lineas.length;i++){
     let estado= elemEstado?'normal':'parada';
     let alerta = '';
     if (elemEstado && elemAlerta){
-        alerta=document.getElementById(elemAlerta.parentNode.parentNode.getAttribute('data-toggle')).title;
+        alerta=document.getElementById(elemAlerta.parentNode.dataset.toggle).innerText;
     }  
-    console.log(`Circulacion ${estado} en ${nombre} ${alerta}`);  
+    if (nombre){
+        console.log(`Circulacion ${estado} en ${nombre} ${alerta?' Atencion: '+ alerta :''}`); 
+    }
 }
