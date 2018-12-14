@@ -18,6 +18,7 @@ Fecha | Teoría | Recursos | Descripción
 11/12/18 | [Clase 2](teoria/clase2.md) | [Clase 2](recursos/clase2.md) | Reintro a Javascript II + Funciones y conceptos avanzados de JavaScript
 12/12/18 | [Clase 3](teoria/clase3.md) | [Clase 3](recursos/clase3.md) | ES6, ES7, y nuevas versiones del lenguaje + Programación Orientada a Objetos con prototipos
 13/12/18 | [Clase 4](teoria/clase4.md) | [Clase 4](recursos/clase4.md) | Gestión y manipulación de BOM, DOM, Etc... +  Gestión de Eventos + Ajax (GET, POST, Json, Fetch, etc...)
+14/12/18 | [Clase 5](teoria/clase5.md) | [Clase 5](recursos/clase5.md) | HTML5 APIS (Geoposicionamiento, LocalStorage, offline y WebWorkers) + Patrones y buenas prácticas
 
 Temario
 =================
