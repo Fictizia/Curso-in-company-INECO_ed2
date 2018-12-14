@@ -1,0 +1,11 @@
+Ej.2 Metro
+var array = [].slice.call(document.querySelectorAll('li.list__lineas__element'));
+array.forEach(function(elemento) {console.log(elemento.querySelector('img').className);elemento.querySelector('span.state--alert')?console.log(document.getElementById(elemento.querySelector('span.top').dataset.yetiBox).textContent):console.log('Circulación normal');})
+
+Ej.3 Gatos
+var array = [].slice.call(document.getElementsByTagName('img'));
+array.forEach(function(elemento){elemento.src='http://placekitten.com/200/140'});
+
+Ej.4 Profes
+var array = [].slice.call(document.body.querySelectorAll('article.microCard div > h3 ,article.microCard div > p, article.microCard div >  img, article.microCard div ul li > a'));
+array.forEach(function(elemento) {elemento.tagName==='H3' ? console.log(elemento.textContent):''; elemento.tagName==='IMG' ? console.log(elemento.src):'';                                             elemento.tagName==='P' ? console.log(elemento.textContent):'';  elemento.tagName==='A' ? console.log(elemento.href):'';})
