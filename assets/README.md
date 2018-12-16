@@ -135,3 +135,22 @@
 - https://raw.githubusercontent.com/loredanacirstea/staruml-design-patterns/master/generated/Model/loretek/design_patterns/behavioral/observer/observer_seq.png 
 - http://i.imgur.com/bgqt2er.png 
 - https://media.giphy.com/media/KI9oNS4JBemyI/giphy.gif 
+
+
+### clase6
+
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png 
+- https://servercheck.in/sites/servercheck.in/files/node-drupal-queue-comparison.jpg 
+- https://er1x.github.io/images/2015-05/iojsnode.jpg 
+- https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/8389/vz1XuNqHTyfO4YsqI3f2 
+- https://nodejs.org/static/images/logos/nodejs.png 
+- https://raw.githubusercontent.com/nodejs/LTS/master/schedule.png 
+- https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAhTAAAAJGEzYjdjNTFlLTI1MjQtNGFjMS04YTZkLWM2ZmU0ODgzOTNjZA.png 
+- https://cdn-images-1.medium.com/max/800/1*4LsfQ0ZbZkapHDR8eTYp4g.png 
+- https://strongloop.com/blog-assets/2014/01/threading_node.png 
+- https://strongloop.com/blog-assets/2014/01/threading_java.png 
+- https://www.safaribooksonline.com/library/view/nodejs-the-right/9781941222355/images/eventloop.png 
+- https://pongandbeyond.files.wordpress.com/2011/04/img_2019.jpg 
+- https://raw.githubusercontent.com/Fictizia/Curso-Node.js-para-desarrolladores-Front-end_ed7/master/assets/streams.png 
+- https://github.com/Fictizia/Curso-Node.js-para-desarrolladores-Front-end_ed7/raw/master/assets/stream-events.png 
+
