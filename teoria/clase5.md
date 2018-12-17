@@ -720,9 +720,7 @@ window.document.designMode = "on"; // off, por defecto
     - Utiliza *JSON.parse()* y *JSON.stringify()* para guardar multiples datos bajo una misma clave
     - Genera un avatar al azar para el usuario usando [Adorable Avatars](http://avatars.adorable.io/)
 
-```javascript
-// Tu solución
-```
+[Solución](http://codepen.io/ulisesgascon/pen/mWWpQr)
 
 ![img](../assets/clase5/16fb38a8-1b5f-40a2-b5b3-08006c8857a0.jpeg)
 
