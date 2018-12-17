@@ -1628,3 +1628,4 @@ Running sanity checks on your system
 - [electron/electron-quick-start](https://github.com/electron/electron-quick-start)
 - [Generador Base](https://github.com/sindresorhus/generator-electron/)
 - [Electron Simple Samples](https://electronjs.org/blog/simple-samples)
+- [Electron packager tutorial](https://www.christianengvall.se/electron-packager-tutorial/)
