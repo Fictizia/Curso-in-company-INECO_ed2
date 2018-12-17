@@ -1662,8 +1662,31 @@ currentValue: [{…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {�
 
 **Código Esqueleto**
 ```javascript
-function NasaRequest() {
-	// Tu solución
+
+const token = "";
+
+function NasaRequest(soles=400, limit=true, frecuency=0) {
+  return new Promise((resolve, reject) => {
+    const url = `https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?sol=${soles}&api_key=${token}`;
+    console.log("request started for:", url);
+    fetch(url).then(res => {
+      if (res.status === 200){
+        res.json().then(data => {
+          data = data.photos;
+          if(data.length === 0 && !limit) {
+            setTimeout(()=> {
+              console.log(`Delay for next request ${frecuency}ms`)
+              NasaRequest(soles-1, !limit ? false : limit-1, frecuency);
+            }, frecuency)
+          } else {
+            resolve(data);
+          }
+        })
+      } else {
+        reject(`ERROR in request, status ${res.status}`)
+      }
+    });
+  })
 };
 
 async function init() {
