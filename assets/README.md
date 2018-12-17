@@ -154,3 +154,22 @@
 - https://raw.githubusercontent.com/Fictizia/Curso-Node.js-para-desarrolladores-Front-end_ed7/master/assets/streams.png 
 - https://github.com/Fictizia/Curso-Node.js-para-desarrolladores-Front-end_ed7/raw/master/assets/stream-events.png 
 
+
+### clase7
+
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/640px-Npm-logo.svg.png 
+- https://img.devrant.com/devrant/rant/r_760537_vKvzh.jpg 
+- https://yarnpkg.com/assets/og_image.png 
+- http://image.slidesharecdn.com/bower-phxjs-140515152011-phpapp02/95/bower-phoenix-javascript-meetup-1-638.jpg?cb=1400167728 
+- https://i.stack.imgur.com/zo1N0.png 
+- https://rules.ssw.com.au/PublishingImages/package3.jpg 
+- https://henrixivo.files.wordpress.com/2016/01/grunt.png?w=634 
+- https://www.escael.com/wp-content/uploads/2015/06/gulpjs.jpg 
+- http://i2.wp.com/joellongie.com/wp-content/uploads/2015/02/web-gulp-anatomy.jpg 
+- https://fettblog.eu/wp-content/uploads/2015/folie4.jpg 
+- http://theodorelee.com/wp-content/uploads/2015/04/grunt-vs-gulp.jpg 
+- http://frontendlabs.io/wp-content/uploads/2014/08/grunt-file-manipulation.png 
+- http://frontendlabs.io/wp-content/uploads/2014/08/gulp-file-manipulation.png 
+- https://raw.githubusercontent.com/samueleaton/design/master/npm-scripts-black.png 
+- https://raw.githubusercontent.com/yeoman/media/master/optimized/yeoman-masthead.png 
+- https://learnmate.com.au/wp-content/uploads/2017/03/6a00d8341c5dea53ef0163035a4bd0970d-pi.jpg 
