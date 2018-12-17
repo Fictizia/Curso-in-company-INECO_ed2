@@ -1515,7 +1515,7 @@ Detalles: http://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci37563240.geo
 
 ### NPM
 
-![npm_logo](../assets/clase7/109990e3-45d8-49ae-99d6-4dc0ae2cdba1.png)
+![npm_logo](../assets/clase6/109990e3-45d8-49ae-99d6-4dc0ae2cdba1.png)
 
 **Documentación**
 - [Web Oficial](https://www.npmjs.com/)
@@ -1600,7 +1600,7 @@ npm bugs <paquete>
 
 ### Dependency Hell:
 
-![img](../assets/clase7/29dd5616-20a0-4d03-a38b-7f574472fff6.jpeg)
+![img](../assets/clase6/29dd5616-20a0-4d03-a38b-7f574472fff6.jpeg)
 
 **Abyssus abyssum invocat. El abismo llama al abismo (Un paso en falso lleva a otro).**
 
@@ -1718,7 +1718,7 @@ npm bugs <paquete>
 
 ### YARN
 
-![yarn_logo](../assets/clase7/3591e8e8-6d2f-45a3-88bb-cc24b259a8ff.png)
+![yarn_logo](../assets/clase6/3591e8e8-6d2f-45a3-88bb-cc24b259a8ff.png)
 
 **Documentación**
 - [Web](https://yarnpkg.com/en/)
