@@ -1627,3 +1627,4 @@ Running sanity checks on your system
 - [Esperando tu primera App. en Electron](https://electronjs.org/docs/tutorial/first-app)
 - [electron/electron-quick-start](https://github.com/electron/electron-quick-start)
 - [Generador Base](https://github.com/sindresorhus/generator-electron/)
+- [Electron Simple Samples](https://electronjs.org/blog/simple-samples)
