@@ -584,8 +584,75 @@ s
 **2 -** Hagamos la [web del Metro](https://www.metromadrid.es/es/index.html) más divertida.
 - Saca el estado actual de todas las líneas del metro de Madrid por consola.
 
+
 ```javascript
-// Tu solución
+
+function capitalizeFirstLetter(string) {
+	if(string && typeof(string) === "string") {
+		return string.charAt(0).toUpperCase() + string.slice(1);
+	} else {
+		return false
+	}
+    
+}
+
+function warningDetails (el, name) {
+	if (elContainsClass (el, name)) {
+		var idRef = el.parentNode.dataset.toggle
+		return document.getElementById(idRef).innerText
+	} else {
+		return false;
+	}
+}
+
+function cleanName (item) {
+	var imgSlctr = item.querySelector("img")
+	if(imgSlctr && imgSlctr.className) {
+		var firstClass = imgSlctr.className.split(' ')[0]
+		return firstClass.split("-").join(" ")
+	} else {
+		return false
+	}
+}
+
+function elContainsClass (el, name) {
+	if(el && el.classList) {
+		return el.classList.contains(name)
+	} else {
+		return false
+	}
+}
+
+function printTheLegend (data){
+	return `En ${data.line} circulación ${data.working ? "normal" : "deficiente"}. ${data.warnings ? data.warnings : ""}`
+}
+
+
+var lineas = Array.prototype.slice.call(document.querySelectorAll(".list__otraslineas > li:not(:last-child)"));
+lineas.forEach(function (item) {
+	var spanSlctr = item.querySelector("span > span") || item.querySelector("span");
+
+	var text = printTheLegend({
+		line: capitalizeFirstLetter(cleanName(item)),
+		working: elContainsClass (spanSlctr, "state--green"),
+		warnings: warningDetails (item.querySelector("span > span"), "state--alert")
+	})
+	console.log(text)
+})
+```
+
+```javascript
+	// OLD VERSION
+	var lineas = document.querySelectorAll('.bloquet');
+	
+	for (var i = 0; i < lineas.length; i++) {
+	  var estado = lineas[i].querySelector('.circulacion > .txt > a');
+	  
+	  if(!estado) estado = lineas[i].querySelector('.circulacion > .r > a');
+	  
+	  if(estado) console.log(estado.innerText.trim());
+	  
+	}
 ```
 
 - Respuesta esperada:
