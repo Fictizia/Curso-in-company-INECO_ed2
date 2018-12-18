@@ -401,7 +401,8 @@ grunt.registerTask('default', ['jshint']);
 - Facilmente se desactualiza
 
 **Instalación**
-- Instalamos Gulp global
+- Instalamos 
+global
 ```
 npm install -g grunt-cli
 ```
@@ -984,12 +985,12 @@ module.exports = grunt => {
 **Instalación**
 - Instalamos Gulp global
 ```
-npm install --global gulp
+npm install --global gulp@3
 ```
 
 - Incluimos la dependencia en *package.json*
 ```
-npm install --save-dev gulp
+npm install --save-dev gulp@3
 ```
 
 **Tareas por defecto**
@@ -1610,7 +1611,7 @@ Running sanity checks on your system
 ### Electron
 
 
-![Portada](../assets/clase7/7b849ea8-2517-4141-900c-5f0ae888bd1e .png)
+![Portada](../assets/clase7/7b849ea8-2517-4141-900c-5f0ae888bd1e.png)
 
 
 **Cosas interesantes...**
